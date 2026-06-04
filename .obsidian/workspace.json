@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "424b6d49590c9070",
+    "type": "split",
+    "children": [
+      {
+        "id": "eacaee324c84b6b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "782502e8105d03ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "961a5bf1baf3c822",
+    "type": "split",
+    "children": [
+      {
+        "id": "c611b504808d117f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f833dad614953c44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3b04df96d0a85b7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "61281fc44f937baf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "right": {
+    "id": "db41ff4524e4e29d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c8fe468bcf9e40f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef9b1ce7a6edf576",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-projects/2026-李宅大廚/2026-05-18-每週菜單.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-05-18-每週菜單"
+            }
+          },
+          {
+            "id": "cfe05b20325b1eed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-projects/2026-李宅大廚/2026-05-18-每週菜單.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-05-18-每週菜單"
+            }
+          },
+          {
+            "id": "2065e883e147bb7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1a9a438ea827f006",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "73fc25b7f2148a0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-projects/2026-李宅大廚/2026-05-11-每週菜單.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-05-11-每週菜單"
+            }
+          },
+          {
+            "id": "c327f1f219b6d02d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "782502e8105d03ff",
+  "lastOpenFiles": [
+    "01-projects/2026-04-運動計畫/_overview-運動計畫.md",
+    "01-projects/2026-李宅大廚/2026-06-01-每週菜單.md",
+    "04-archives/2026-04-my-wiki/survey-karpathy-llm-wiki.md",
+    "04-archives/2026-04-my-wiki/build-personal-wiki.md",
+    "04-archives/2026-04-my-wiki/_overview-my-wiki.md",
+    "01-projects/2026-04-my-wiki/assets/_overview-my-wiki",
+    "01-projects/2026-04-my-wiki/assets",
+    "_README.md",
+    "04-archives/boostnote-appier/task/devop-records.md",
+    "02-areas/李宅大廚私房菜/白飯.md",
+    "02-resources/clippings/AI Trends Reshaping Data Engineering in 2026.md",
+    "02-areas",
+    "02-resources/clippings/解剖小龍蝦 — 以 OpenClaw 為例介紹 AI Agent 的運作原理.md",
+    "02-resources/clippings/2026 宮古島懶人包｜星宇航空直飛下地島！宮古島景點、住宿、交通一次搞懂.md",
+    "02-resources/clippings/7 天沉浸式英語挑戰｜Gemini Live 真的是你的最佳英語夥伴嗎？.md",
+    "02-resources/clippings/Your Data Agents Need Context.md",
+    "03-resources/appier-contact-information.md",
+    "01-projects/2026-projects.base",
+    "01-projects/2026-03-李宅清潔/_overview-李宅清潔.md",
+    "02-areas/李宅大廚私房菜/茄子-柚子醋.md",
+    "02-areas/李宅大廚私房菜/牛肉蘿蔔湯.md",
+    "01-projects/2026-李宅大廚/2026-05-25-每週菜單.md",
+    "04-archives/boostnote-yujhe-li/job/interview-records.md",
+    "01-projects/2026-李宅大廚/2026-05-18-每週菜單.md",
+    "02-resources/clippings/Backfills - The Necessary Evil of Data Engineering.md",
+    "01-projects/2026-李宅大廚/2026-05-11-每週菜單.md",
+    "raw/Backfills - The Necessary Evil of Data Engineering.md",
+    "raw/assets/Backfills - The Necessary Evil of Data Engineering/79adb3b64ec3546a716bd9d403654b8f_MD5.webp",
+    "raw/assets/Backfills - The Necessary Evil of Data Engineering/58d21c2c8c6af69d1b326bdc9e20cb8e_MD5.webp",
+    "raw/assets/Backfills - The Necessary Evil of Data Engineering/3ed0fd1a0be6e8dd484be994fbb75ff5_MD5.webp",
+    "raw/assets/Backfills - The Necessary Evil of Data Engineering/f55f040877f8f4874fdfa4f46ec24848_MD5.webp",
+    "raw/assets/Backfills - The Necessary Evil of Data Engineering/629251737cdb2f9346af6d59961ec560_MD5.webp",
+    "raw/assets/Backfills - The Necessary Evil of Data Engineering/f72db65151f26d181e1da8bb89e647c3_MD5.webp",
+    "raw/assets/Backfills - The Necessary Evil of Data Engineering",
+    "raw/assets",
+    "raw",
+    "01-projects/2026-04-my-wiki/assets/survey-karpathy-llm-wiki",
+    "02-resources/clippings/From zero to a RAG system successes and failures.md",
+    "02-resources/clippings/assets/AutoMQ Shared Storage Architecture Deep Dive/c5dbf4c6cd4d6f90bcac0d986e71514e_MD5.webp",
+    "02-resources/clippings/assets/AutoMQ Shared Storage Architecture Deep Dive/cf2d133750a060a7356402087773c13f_MD5.webp",
+    "02-resources/clippings/assets/AutoMQ Shared Storage Architecture Deep Dive/f28c8a4fa7ee42d32bcc1729ea384f30_MD5.webp",
+    "02-resources/clippings/assets/AutoMQ Shared Storage Architecture Deep Dive/f62b5e5a58ef3ad3d88ee71ed354587a_MD5.webp",
+    "02-resources/clippings/AutoMQ Shared Storage Architecture Deep Dive.md",
+    "02-resources/clippings/assets/AutoMQ Shared Storage Architecture Deep Dive",
+    "02-resources/clippings/assets/AI Trends Reshaping Data Engineering in 2026",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "up": "multitext",
+    "down": "multitext",
+    "created": "date",
+    "updated": "datetime",
+    "date": "date",
+    "deadline": "date",
+    "category": "checkbox",
+    "difficulty": "multitext",
+    "cook-time": "number",
+    "cook-week-count": "number"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-excel-to-markdown-table:excel-to-markdown-table": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "v"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ]
+}

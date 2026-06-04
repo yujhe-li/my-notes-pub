@@ -1,0 +1,8 @@
+{
+  "theme": "moonstone",
+  "accentColor": "",
+  "cssTheme": "Obsidian gruvbox",
+  "enabledCssSnippets": [
+    "line-width"
+  ]
+}

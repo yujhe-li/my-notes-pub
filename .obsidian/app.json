@@ -1,0 +1,18 @@
+{
+  "vimMode": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "showLineNumber": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "relative",
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "deleteUnlinkedAttachments": "always"
+}
