@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eacaee324c84b6b3",
+        "id": "f2e468eada16b683",
         "type": "tabs",
         "children": [
           {
-            "id": "782502e8105d03ff",
+            "id": "03f8788831e94cdd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,14 +170,23 @@
               "icon": "lucide-ghost",
               "title": "git-view"
             }
+          },
+          {
+            "id": "b73020d292083e07",
+            "type": "leaf",
+            "state": {
+              "type": "notepack-my-todos",
+              "state": {},
+              "icon": "check-square",
+              "title": "My todos"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,10 +198,11 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "terminal:Open terminal": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
+      "notepack:My todos": false
     }
   },
-  "active": "782502e8105d03ff",
+  "active": "b73020d292083e07",
   "lastOpenFiles": [
     "01-projects/2026-04-運動計畫/_overview-運動計畫.md",
     "01-projects/2026-李宅大廚/2026-06-01-每週菜單.md",

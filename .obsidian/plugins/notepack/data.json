@@ -1,0 +1,11 @@
+{
+  "teamFolder": "Team",
+  "todoAnchorTitle": "Open Todos",
+  "recentFilesAnchorTitle": "Recent Files",
+  "anchorHeadingLevel": "##",
+  "todoGroupHeadingLevel": "####",
+  "recentFilesCount": 5,
+  "endOfDayHour": 17,
+  "endOfWeekDay": 5,
+  "showUndatedFirst": false
+}
