@@ -11,10 +11,14 @@
             "id": "03f8788831e94cdd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -202,8 +206,9 @@
       "notepack:My todos": false
     }
   },
-  "active": "b73020d292083e07",
+  "active": "03f8788831e94cdd",
   "lastOpenFiles": [
+    "Untitled.md",
     "01-projects/2026-04-運動計畫/_overview-運動計畫.md",
     "01-projects/2026-李宅大廚/2026-06-01-每週菜單.md",
     "04-archives/2026-04-my-wiki/survey-karpathy-llm-wiki.md",
